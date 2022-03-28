@@ -20,3 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+Responses: {"?h": "Server IP: ge.terohost.com:3176", "!site": "Oops, we don't have a website!", "!owner": "@SauskeUchiha#6149 is the Owner", "!h": "{user} you can use command: !ip, !site, !owner. For help contact: SauskeUchiha#6149. Created by Dhruv"}
